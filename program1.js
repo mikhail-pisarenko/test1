@@ -11,5 +11,5 @@ function login(username, password) {
 login("admin", "my_password");
 
 // Secret: api_token
-const api_token = "du2f4927gfbfyf";
+const api_token = du2f4927gfbfyf;
 console.log("API Token: " + api_token);
